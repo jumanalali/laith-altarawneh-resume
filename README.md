@@ -30,7 +30,7 @@ verification/requirements.cjs checks reference content across both scenes, exter
 
 ## Publishing
 
-.openai/hosting.json identifies the existing Sites project. Current address: https://laith-altarawneh-resume.alaajarwan999.chatgpt.site. Publish dist while retaining this project and its access settings.
+.openai/hosting.json identifies the existing Sites project. Current address: https://laith-altarawneh-resume.chatgpt.site. Publish dist while retaining this project and its access settings.
 
 ## Refined hand model
 
