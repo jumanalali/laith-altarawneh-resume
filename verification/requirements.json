@@ -1,0 +1,75 @@
+{
+  "imported": {
+    "missing": [],
+    "expectedLinks": [
+      "https://emiratesagro.ae/",
+      "https://www.didarasia.com/index.php",
+      "https://www.cade.technology/"
+    ],
+    "actualLinks": [
+      "https://emiratesagro.ae/",
+      "https://www.didarasia.com/index.php",
+      "https://www.cade.technology/"
+    ]
+  },
+  "widths": [
+    {
+      "width": 1440,
+      "height": 1000,
+      "start": {
+        "top": 120,
+        "overflow": false
+      },
+      "end": {
+        "bottom": 890.40625,
+        "viewport": 1000,
+        "travel": 2869.40625,
+        "actual": 2869
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "start": {
+        "top": 94,
+        "overflow": false
+      },
+      "end": {
+        "bottom": 736.21875,
+        "viewport": 844,
+        "travel": 3691.21875,
+        "actual": 3691
+      }
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "start": {
+        "top": 94,
+        "overflow": false
+      },
+      "end": {
+        "bottom": 459.609375,
+        "viewport": 568,
+        "travel": 4603.609375,
+        "actual": 4604
+      }
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "start": {
+        "top": 120,
+        "overflow": false
+      },
+      "end": {
+        "bottom": 280.40625,
+        "viewport": 390,
+        "travel": 3479.40625,
+        "actual": 3479
+      }
+    }
+  ],
+  "webglFallback": true,
+  "errors": []
+}

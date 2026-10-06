@@ -1,0 +1,5088 @@
+{
+  "rest": {
+    "coordination": {
+      "active": "left",
+      "pending": true,
+      "hands": [
+        {
+          "side": "left",
+          "anchor": 559.3199999999999,
+          "x": 589.5,
+          "y": 706.5697228494826,
+          "phase": "travel",
+          "elapsed": 0.39150000000000007,
+          "open": 1,
+          "outward": 0.28,
+          "velocity": 716.6942259788229,
+          "target": 752.76,
+          "targetFraction": 0.82,
+          "startOpen": 0
+        },
+        {
+          "side": "right",
+          "anchor": 1007.6405927122536,
+          "x": 1269.5,
+          "y": 697.6405927122536,
+          "phase": "grip",
+          "elapsed": 0,
+          "open": 0,
+          "outward": 0,
+          "velocity": 0,
+          "target": 697.6800000000001,
+          "targetFraction": 0.76,
+          "startOpen": 0
+        }
+      ]
+    },
+    "deskCorners": [
+      [
+        385.5250997007642,
+        128.808013308131
+      ],
+      [
+        1473.4749002992357,
+        128.808013308131
+      ],
+      [
+        1916.9088302093887,
+        789.1919866918689
+      ],
+      [
+        -57.90883020938849,
+        789.1919866918689
+      ]
+    ],
+    "hands": [
+      {
+        "opening": 1,
+        "sleeveBend": 0.5527154145583163,
+        "sleeveLength": 10.376,
+        "wrist": "left_handL_031",
+        "weighted": [
+          "left_f_index01L_037",
+          "left_f_index02L_038",
+          "left_palm_indexL_036",
+          "left_f_middle01L_045",
+          "left_palm_middleL_044",
+          "left_f_index03L_039",
+          "left_f_middle02L_046",
+          "left_f_ring01L_041",
+          "left_palm_ringL_040",
+          "left_f_middle03L_047",
+          "left_f_ring02L_042",
+          "left_f_pinky01L_033",
+          "left_palm_pinkyL_032",
+          "left_f_ring03L_043",
+          "left_f_pinky02L_034",
+          "left_f_pinky03L_035",
+          "left_thumb02L_049",
+          "left_thumb03L_050",
+          "left_thumb01L_048",
+          "left_handL_031",
+          "left_forearmL_08"
+        ],
+        "materials": [
+          {
+            "name": "left_sleeve",
+            "color": "27292a"
+          },
+          {
+            "name": "left_cuff",
+            "color": "27292a"
+          },
+          {
+            "name": "left_skin",
+            "color": "b98260"
+          },
+          {
+            "name": "left_nails",
+            "color": "b98260"
+          }
+        ],
+        "anchor": [
+          -0.1949970751718372,
+          -0.07766847775548526,
+          0.004088615467669407
+        ],
+        "fingerOffsets": [
+          {
+            "name": "left_f_index01L_037",
+            "angle": 0.24434556077327035
+          },
+          {
+            "name": "left_f_index02L_038",
+            "angle": 0.24434653550862898
+          },
+          {
+            "name": "left_f_middle01L_045",
+            "angle": 0.26179885088472593
+          },
+          {
+            "name": "left_f_index03L_039",
+            "angle": 0.2443460902132667
+          },
+          {
+            "name": "left_f_middle02L_046",
+            "angle": 0.26179623718416045
+          },
+          {
+            "name": "left_f_ring01L_041",
+            "angle": 0.3490656520703332
+          },
+          {
+            "name": "left_f_middle03L_047",
+            "angle": 0.26179869004058653
+          },
+          {
+            "name": "left_f_ring02L_042",
+            "angle": 0.3490635740921319
+          },
+          {
+            "name": "left_f_pinky01L_033",
+            "angle": 0.38397184525329453
+          },
+          {
+            "name": "left_f_ring03L_043",
+            "angle": 0.3490634311669566
+          },
+          {
+            "name": "left_f_pinky02L_034",
+            "angle": 0.3839704162243227
+          },
+          {
+            "name": "left_f_pinky03L_035",
+            "angle": 0.38397192953827697
+          },
+          {
+            "name": "left_thumb02L_049",
+            "angle": 0.08726381832111488
+          },
+          {
+            "name": "left_thumb03L_050",
+            "angle": 0.7853979651390188
+          },
+          {
+            "name": "left_thumb01L_048",
+            "angle": 0.5570365662069457
+          }
+        ],
+        "meshes": 4
+      },
+      {
+        "opening": 0,
+        "sleeveBend": 0.4879613654041702,
+        "sleeveLength": 10.376,
+        "wrist": "right_handR_010",
+        "weighted": [
+          "right_f_index01R_027",
+          "right_f_index02R_028",
+          "right_palm_indexR_026",
+          "right_f_middle01R_016",
+          "right_palm_middleR_015",
+          "right_f_index03R_029",
+          "right_f_middle02R_017",
+          "right_f_ring01R_020",
+          "right_palm_ringR_019",
+          "right_f_middle03R_018",
+          "right_f_ring02R_021",
+          "right_f_pinky01R_012",
+          "right_palm_pinkyR_011",
+          "right_f_ring03R_022",
+          "right_f_pinky02R_013",
+          "right_f_pinky03R_014",
+          "right_thumb02R_024",
+          "right_thumb03R_025",
+          "right_thumb01R_023",
+          "right_handR_010",
+          "right_forearmR_04"
+        ],
+        "materials": [
+          {
+            "name": "right_sleeve",
+            "color": "27292a"
+          },
+          {
+            "name": "right_cuff",
+            "color": "27292a"
+          },
+          {
+            "name": "right_skin",
+            "color": "b98260"
+          },
+          {
+            "name": "right_nails",
+            "color": "b98260"
+          }
+        ],
+        "anchor": [
+          0.19542253240769633,
+          -0.022673684541716435,
+          0.00381937918421023
+        ],
+        "fingerOffsets": [
+          {
+            "name": "right_f_index01R_027",
+            "angle": 0
+          },
+          {
+            "name": "right_f_index02R_028",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle01R_016",
+            "angle": 0.000582658071594808
+          },
+          {
+            "name": "right_f_index03R_029",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle02R_017",
+            "angle": 0
+          },
+          {
+            "name": "right_f_ring01R_020",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle03R_018",
+            "angle": 0.0003703685067872387
+          },
+          {
+            "name": "right_f_ring02R_021",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky01R_012",
+            "angle": 0
+          },
+          {
+            "name": "right_f_ring03R_022",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky02R_013",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky03R_014",
+            "angle": 0.000461118924426608
+          },
+          {
+            "name": "right_thumb02R_024",
+            "angle": 0
+          },
+          {
+            "name": "right_thumb03R_025",
+            "angle": 0
+          },
+          {
+            "name": "right_thumb01R_023",
+            "angle": 0.00014967925888044776
+          }
+        ],
+        "meshes": 4
+      }
+    ],
+    "tabletop": null,
+    "projectCorners": [],
+    "cameraPosition": [
+      0,
+      0,
+      1500
+    ],
+    "viewport": [
+      1859,
+      918
+    ],
+    "elevation": 80,
+    "handRotations": [
+      [
+        0,
+        0.35,
+        -4.2748237638261996e-18,
+        "XYZ"
+      ],
+      [
+        0,
+        -0.35,
+        0,
+        "XYZ"
+      ]
+    ],
+    "deskGeometry": "ExtrudeGeometry",
+    "deskDimensions": [
+      2714,
+      64,
+      2114
+    ],
+    "deskMatrix": [
+      0.918,
+      0,
+      0,
+      0,
+      0,
+      0.7308049270680333,
+      0.5555611204656843,
+      0,
+      0,
+      -0.5555611204656843,
+      0.7308049270680333,
+      0,
+      0,
+      168.91415152696024,
+      -1150,
+      1
+    ],
+    "camera": "PerspectiveCamera",
+    "paperCorners": [
+      [
+        589.5,
+        -310.0000000000001
+      ],
+      [
+        1269.5,
+        -310.0000000000001
+      ],
+      [
+        1269.5,
+        3329.40625
+      ],
+      [
+        589.5,
+        3329.40625
+      ]
+    ],
+    "gripPosition": [
+      0,
+      0,
+      80
+    ],
+    "handCount": 2,
+    "skinnedMeshes": [
+      "left_Object_7",
+      "left_Object_8",
+      "right_Object_7",
+      "right_Object_8"
+    ],
+    "drawCalls": 41,
+    "triangles": 27030,
+    "textureCount": 7,
+    "pose": {
+      "left": 589.5,
+      "top": -310,
+      "width": 680,
+      "height": 3639.40625,
+      "scroll": 430,
+      "motion": 0,
+      "portfolio": {
+        "active": false,
+        "cameraBlend": 0,
+        "turn": 0
+      }
+    },
+    "rect": {
+      "left": 589.5,
+      "right": 1269.5,
+      "top": -310,
+      "bottom": 3329.40625
+    },
+    "canvasWidth": 1859,
+    "cornerError": 1.1368683772161603e-13
+  },
+  "frames": [
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 559.3199999999999,
+            "x": 589.5,
+            "y": 728.672725919589,
+            "phase": "travel",
+            "elapsed": 0.4316000001430512,
+            "open": 1,
+            "outward": 0.28,
+            "velocity": 405.9689123837517,
+            "target": 752.76,
+            "targetFraction": 0.82,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 677.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 1,
+          "sleeveBend": 0.5743850254113618,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.24434556077327035
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.24434653550862898
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.26179885088472593
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.2443460902132667
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.26179623718416045
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.3490656520703332
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.26179869004058653
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.3490635740921319
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.38397184525329453
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.3490634311669566
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.3839704162243227
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.38397192953827697
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.08726381832111488
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.7853979651390188
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.5570365662069457
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.4683535222669153,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.0007465017394250851
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.0005957744983491322
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.0002419365693912823
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.0003789827667968315
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.0006560526522679923
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.00016868067614060874
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 80.44191578965109,
+      "handRotations": [
+        [
+          0.0003464619790864565,
+          0.3487626357889769,
+          0.0005568138949603723,
+          "XYZ"
+        ],
+        [
+          0.0002840988228508943,
+          -0.34898536134696106,
+          -0.0004565873938675087,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -330.00000000000017
+        ],
+        [
+          1269.5,
+          -330.00000000000017
+        ],
+        [
+          1269.5,
+          3309.4062500000005
+        ],
+        [
+          589.5,
+          3309.4062500000005
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        80.44191578965109
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -330,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 450,
+        "motion": 0.04419157896510924,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -330,
+        "bottom": 3309.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 4.547473508864641e-13
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 559.3199999999999,
+            "x": 589.5,
+            "y": 747.6168992885304,
+            "phase": "travel",
+            "elapsed": 0.5186000001430512,
+            "open": 1,
+            "outward": 0.28,
+            "velocity": 94.86675854625753,
+            "target": 752.76,
+            "targetFraction": 0.82,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 647.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 1,
+          "sleeveBend": 0.59295774440052,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.24434556077327035
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.24434653550862898
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.26179885088472593
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.2443460902132667
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.26179623718416045
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.3490656520703332
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.26179869004058653
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.3490635740921319
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.38397184525329453
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.3490634311669566
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.3839704162243227
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.38397192953827697
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.08726381832111488
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.7853979651390188
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.5570365662069457
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.43894175756103293,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.0009895809395127724
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0.0004926403853125939
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.0008814492888794794
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0.0004448172031453866
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.0006932091383405312
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.0007520861262797859
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.0009232608938329989
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.00020043839017309394
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 80.75744555342746,
+      "handRotations": [
+        [
+          0.0005938373138871266,
+          0.3478791524504031,
+          0.000954381397318592,
+          "XYZ"
+        ],
+        [
+          0.0004869465973874438,
+          -0.34826090500933055,
+          -0.0007825927458012489,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5000000000001,
+          -360.00000000000017
+        ],
+        [
+          1269.4999999999998,
+          -360.00000000000017
+        ],
+        [
+          1269.4999999999998,
+          3279.4062500000005
+        ],
+        [
+          589.5000000000001,
+          3279.4062500000005
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        80.75744555342746
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -360,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 480,
+        "motion": 0.07574455534274573,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -360,
+        "bottom": 3279.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 4.547473508864641e-13
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 559.3199999999999,
+            "x": 589.5,
+            "y": 750.8877417301027,
+            "phase": "travel",
+            "elapsed": 0.5724999999999999,
+            "open": 1,
+            "outward": 0.28,
+            "velocity": 35.604666054687335,
+            "target": 752.76,
+            "targetFraction": 0.82,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 607.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 1,
+          "sleeveBend": 0.5961644526765713,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.24434556077327035
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.24434653550862898
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.26179885088472593
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.2443460902132667
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.26179623718416045
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.3490656520703332
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.26179869004058653
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.3490635740921319
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.38397184525329453
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.3490634311669566
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.3839704162243227
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.38397192953827697
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.08726381832111488
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.7853979651390188
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.5570365662069457
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.3997260712865231,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0.00029200515186618626
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.0015239049690752235
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0.0005171299166869881
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0.0012592499955501513
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.0014560112603344145
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0.0012413212117992915
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.0013503906412532115
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.0013815388185958095
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0.0006614764128231654
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.0014816972060227574
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.0002783550729503135
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 81.33344496849257,
+      "handRotations": [
+        [
+          0.0010454208552981713,
+          0.3462663540882208,
+          0.0016801406603006279,
+          "XYZ"
+        ],
+        [
+          0.0008572451013445004,
+          -0.3469384103523411,
+          -0.0013777153414465183,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -400.00000000000006
+        ],
+        [
+          1269.5,
+          -400.00000000000006
+        ],
+        [
+          1269.5,
+          3239.40625
+        ],
+        [
+          589.5,
+          3239.40625
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        81.33344496849257
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -400,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 520,
+        "motion": 0.13334449684925653,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -400,
+        "bottom": 3239.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 5.684341886080802e-14
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 559.3199999999999,
+            "x": 589.5,
+            "y": 752.1445398442868,
+            "phase": "approach",
+            "elapsed": 0.0175,
+            "open": 1,
+            "outward": 0.26796875000000003,
+            "velocity": 11.974181876129881,
+            "target": 752.76,
+            "targetFraction": 0.82,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 557.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 1,
+          "sleeveBend": 0.5949903576904773,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.24434556077327035
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.24434653550862898
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.26179885088472593
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.2443460902132667
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.26179623718416045
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.3490656520703332
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.26179869004058653
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.3490635740921319
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.38397184525329453
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.3490634311669566
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.3839704162243227
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.38397192953827697
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.08726381832111488
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.7853979651390188
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.5570365662069457
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.3507064634433858,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0.0006647900150100786
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0.0005480205893808888
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.002092069760842166
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0.0015237759782417261
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0.0019079256292843544
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.002043144232273883
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0.0018961402934335062
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.001969270042308908
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.001990758424857647
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0.0015786135993363741
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.0020615276281914655
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.00036681077753113796
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 81.90274128243436,
+      "handRotations": [
+        [
+          0.0014917491654285423,
+          0.3446723244091838,
+          0.0023974540158672956,
+          "XYZ"
+        ],
+        [
+          0.0012232343156514047,
+          -0.34563130601553066,
+          -0.001965912293011186,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -450.0000000000001
+        ],
+        [
+          1269.5,
+          -450.0000000000001
+        ],
+        [
+          1269.5,
+          3189.4062499999995
+        ],
+        [
+          589.5,
+          3189.4062499999995
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        81.90274128243436
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -450,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 570,
+        "motion": 0.1902741282434365,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -450,
+        "bottom": 3189.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 4.547473508864641e-13
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 559.3199999999999,
+            "x": 589.5,
+            "y": 752.5349208446837,
+            "phase": "approach",
+            "elapsed": 0.06879999995231628,
+            "open": 1,
+            "outward": 0.1435996474899479,
+            "velocity": 4.4451815306620315,
+            "target": 752.76,
+            "targetFraction": 0.82,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 507.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 1,
+          "sleeveBend": 0.5704992636594443,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.24434556077327035
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.24434653550862898
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.26179885088472593
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.2443460902132667
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.26179623718416045
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.3490656520703332
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.26179869004058653
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.3490635740921319
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.38397184525329453
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.3490634311669566
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.3839704162243227
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.38397192953827697
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.08726381832111488
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.7853979651390188
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.5570365662069457
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.3016868556002486,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0.0008271705167552641
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0.0007366083553210484
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.0024025411426143103
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0.001928040852277126
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0.00224402057692769
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.002360060685054164
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0.0022340089888673548
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.002296404279586466
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.002314857924937568
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0.0019716665979984684
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.0023759933151129035
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.0004163082890972811
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 82.20721424239426,
+      "handRotations": [
+        [
+          0.0017304559660371018,
+          0.34381980012129604,
+          0.002781089945416766,
+          "XYZ"
+        ],
+        [
+          0.0014189738921504234,
+          -0.3449322360994628,
+          -0.0022804937552417517,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -500.00000000000017
+        ],
+        [
+          1269.5,
+          -500.00000000000017
+        ],
+        [
+          1269.5,
+          3139.4062500000005
+        ],
+        [
+          589.5,
+          3139.4062500000005
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        82.20721424239426
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -500,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 620,
+        "motion": 0.22072142423942623,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -500,
+        "bottom": 3139.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 4.547473508864641e-13
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 1252.719982565009,
+            "x": 589.5,
+            "y": 752.7199825650091,
+            "phase": "release",
+            "elapsed": 0.04949999999999999,
+            "open": 0.2911764705882352,
+            "outward": 0,
+            "velocity": 0,
+            "target": 532.4399999999999,
+            "targetFraction": 0.58,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 547.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 0.20497715245267648,
+          "sleeveBend": 0.5419607672205973,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.05031537111998503
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.05031935585871661
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.054217963286997246
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.050317535519049036
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.05420732886428417
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.07210696552115303
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.05421730891395397
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.07209844593670613
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.07926040370948412
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.07209785991703749
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.07925452614249451
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.07926075035896755
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.017969753591945203
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.16108069494427243
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.11426309389587795
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.34090254187475844,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.000848501193283897
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.0007194697241664282
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.0004703432130237881
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.0005534594579970191
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.0007701262969670319
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.00018158282103843113
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 80.58410750356886,
+      "handRotations": [
+        [
+          -0.0004579402827979888,
+          0.3516355010099928,
+          -0.02169259143446382,
+          "XYZ"
+        ],
+        [
+          -0.0003755110318943508,
+          -0.3513411108281941,
+          0.0006034998726873495,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -460.00000000000006
+        ],
+        [
+          1269.5,
+          -460.00000000000006
+        ],
+        [
+          1269.5,
+          3179.4062500000005
+        ],
+        [
+          589.5,
+          3179.4062500000005
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        80.58410750356886
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -460,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 580,
+        "motion": -0.05841075035688632,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -460,
+        "bottom": 3179.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 4.547473508864641e-13
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 1252.719982565009,
+            "x": 589.5,
+            "y": 752.7199825650091,
+            "phase": "release",
+            "elapsed": 0.11659999990463255,
+            "open": 0.6858823523801914,
+            "outward": 0,
+            "velocity": 0,
+            "target": 532.4399999999999,
+            "targetFraction": 0.58,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 597.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 0.765978221949359,
+          "sleeveBend": 0.5419607672205973,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.1873062579713499
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.18730730422798197
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.20087535942396426
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.18730682625924
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.20087255555976707
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.2677199319264495
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.2008751868776902
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.26771769674182283
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.2944571935961482
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.26771754300365413
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.29445565458784384
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.2944572843677031
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.0668985956583577
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.601654888051688
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.4267290046969476
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.3899221497178956,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0.0001742442472139735
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.0014163432107559093
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0.0011266997237824909
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.001343022904370364
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0.0011066255306415012
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.0012277200845511784
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.001261899850124638
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0.00034827105942437654
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.0013708276122694858
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.0002621003532570091
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 81.22248532471943,
+      "handRotations": [
+        [
+          -0.0009584284945800296,
+          0.3534229589092144,
+          -0.02495344601707562,
+          "XYZ"
+        ],
+        [
+          -0.0007859113655556242,
+          -0.35280682630555577,
+          0.0012630718375001102,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -410.0000000000001
+        ],
+        [
+          1269.5,
+          -410.0000000000001
+        ],
+        [
+          1269.5,
+          3229.40625
+        ],
+        [
+          589.5,
+          3229.40625
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        81.22248532471943
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -410,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 530,
+        "motion": -0.12224853247194253,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -410,
+        "bottom": 3229.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 1.1368683772161603e-13
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 1252.719982565009,
+            "x": 589.5,
+            "y": 752.7199825650091,
+            "phase": "release",
+            "elapsed": 0.16679999995231626,
+            "open": 0.9811764703077426,
+            "outward": 0,
+            "velocity": 0,
+            "target": 532.4399999999999,
+            "targetFraction": 0.58,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 657.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 0.998950363494258,
+          "sleeveBend": 0.5419607672205973,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.24408998876435734
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.24409096350740794
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.26152622287219374
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.2440905182085311
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.261523609159022
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.34870142599226955
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.2615260620272796
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.34869934797998786
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.38357097993979883
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.34869920505246604
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.3835695508799996
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.38357106422660203
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.08717258129149925
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.7845739435627825
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.5564522027955657
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.44874567912966035,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0.0005600336518483631
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0.0004147511211698567
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.0019072759173438584
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0.0012581091549318374
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0.0017032691216991808
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.0018534788593620641
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0.0016900572493380524
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.001771713861655219
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.0017955680497650838
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0.0013239963446380154
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.001873724017306236
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.00033766974287128794
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 81.71978954948715,
+      "handRotations": [
+        [
+          -0.0013483150067979243,
+          0.354815410738564,
+          -0.0022820401468234813,
+          "XYZ"
+        ],
+        [
+          -0.001105618305574298,
+          -0.3539486368056225,
+          0.0017768865625301213,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -350.0000000000002
+        ],
+        [
+          1269.5,
+          -350.0000000000002
+        ],
+        [
+          1269.5,
+          3289.4062500000005
+        ],
+        [
+          589.5,
+          3289.4062500000005
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        81.71978954948715
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -350,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 470,
+        "motion": -0.17197895494871482,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -350,
+        "bottom": 3289.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 4.547473508864641e-13
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 1252.719982565009,
+            "x": 589.5,
+            "y": 752.7199825650091,
+            "phase": "depart",
+            "elapsed": 0.020299999952316284,
+            "open": 1,
+            "outward": 0.025088262009112974,
+            "velocity": 0,
+            "target": 532.4399999999999,
+            "targetFraction": 0.58,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 727.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 1,
+          "sleeveBend": 0.5469784196224198,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.24434556077327035
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.24434653550862898
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.26179885088472593
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.2443460902132667
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.26179623718416045
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.3490656520703332
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.26179869004058653
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.3490635740921319
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.38397184525329453
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.3490634311669566
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.3839704162243227
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.38397192953827697
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.08726381832111488
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.7853979651390188
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.5570365662069457
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.5173731301100525,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0.0008860109087803123
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0.0008021197766609902
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.0025204833833807785
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0.002073155607373091
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0.002369865171265641
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.0024800239900627644
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0.0023603874140113302
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.0024195258177396044
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.0024370473480795057
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0.002113788496701849
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.002495190731185568
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.0004352485219492441
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 82.32217094399604,
+      "handRotations": [
+        [
+          -0.0018205820200928955,
+          0.3565020786431889,
+          -0.002925935389435015,
+          "XYZ"
+        ],
+        [
+          -0.0014928772564761742,
+          -0.3553317044874149,
+          0.0023992670193367085,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -280.0000000000001
+        ],
+        [
+          1269.5,
+          -280.0000000000001
+        ],
+        [
+          1269.5,
+          3359.40625
+        ],
+        [
+          589.5,
+          3359.40625
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        82.32217094399604
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -280,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 400,
+        "motion": -0.23221709439960397,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -280,
+        "bottom": 3359.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 1.1368683772161603e-13
+    },
+    {
+      "coordination": {
+        "active": "left",
+        "pending": true,
+        "hands": [
+          {
+            "side": "left",
+            "anchor": 1252.719982565009,
+            "x": 589.5,
+            "y": 752.7199825650091,
+            "phase": "depart",
+            "elapsed": 0.07520000004768372,
+            "open": 1,
+            "outward": 0.21365939273451628,
+            "velocity": 0,
+            "target": 532.4399999999999,
+            "targetFraction": 0.58,
+            "startOpen": 0
+          },
+          {
+            "side": "right",
+            "anchor": 1007.6405927122536,
+            "x": 1269.5,
+            "y": 777.6405927122536,
+            "phase": "grip",
+            "elapsed": 0,
+            "open": 0,
+            "outward": 0,
+            "velocity": 0,
+            "target": 697.6800000000001,
+            "targetFraction": 0.76,
+            "startOpen": 0
+          }
+        ]
+      },
+      "deskCorners": [
+        [
+          385.5250997007642,
+          128.808013308131
+        ],
+        [
+          1473.4749002992357,
+          128.808013308131
+        ],
+        [
+          1916.9088302093887,
+          789.1919866918689
+        ],
+        [
+          -57.90883020938849,
+          789.1919866918689
+        ]
+      ],
+      "hands": [
+        {
+          "opening": 1,
+          "sleeveBend": 0.5846926457675005,
+          "sleeveLength": 10.376,
+          "wrist": "left_handL_031",
+          "weighted": [
+            "left_f_index01L_037",
+            "left_f_index02L_038",
+            "left_palm_indexL_036",
+            "left_f_middle01L_045",
+            "left_palm_middleL_044",
+            "left_f_index03L_039",
+            "left_f_middle02L_046",
+            "left_f_ring01L_041",
+            "left_palm_ringL_040",
+            "left_f_middle03L_047",
+            "left_f_ring02L_042",
+            "left_f_pinky01L_033",
+            "left_palm_pinkyL_032",
+            "left_f_ring03L_043",
+            "left_f_pinky02L_034",
+            "left_f_pinky03L_035",
+            "left_thumb02L_049",
+            "left_thumb03L_050",
+            "left_thumb01L_048",
+            "left_handL_031",
+            "left_forearmL_08"
+          ],
+          "materials": [
+            {
+              "name": "left_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "left_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "left_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "left_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            -0.1949970751718372,
+            -0.07766847775548526,
+            0.004088615467669407
+          ],
+          "fingerOffsets": [
+            {
+              "name": "left_f_index01L_037",
+              "angle": 0.24434556077327035
+            },
+            {
+              "name": "left_f_index02L_038",
+              "angle": 0.24434653550862898
+            },
+            {
+              "name": "left_f_middle01L_045",
+              "angle": 0.26179885088472593
+            },
+            {
+              "name": "left_f_index03L_039",
+              "angle": 0.2443460902132667
+            },
+            {
+              "name": "left_f_middle02L_046",
+              "angle": 0.26179623718416045
+            },
+            {
+              "name": "left_f_ring01L_041",
+              "angle": 0.3490656520703332
+            },
+            {
+              "name": "left_f_middle03L_047",
+              "angle": 0.26179869004058653
+            },
+            {
+              "name": "left_f_ring02L_042",
+              "angle": 0.3490635740921319
+            },
+            {
+              "name": "left_f_pinky01L_033",
+              "angle": 0.38397184525329453
+            },
+            {
+              "name": "left_f_ring03L_043",
+              "angle": 0.3490634311669566
+            },
+            {
+              "name": "left_f_pinky02L_034",
+              "angle": 0.3839704162243227
+            },
+            {
+              "name": "left_f_pinky03L_035",
+              "angle": 0.38397192953827697
+            },
+            {
+              "name": "left_thumb02L_049",
+              "angle": 0.08726381832111488
+            },
+            {
+              "name": "left_thumb03L_050",
+              "angle": 0.7853979651390188
+            },
+            {
+              "name": "left_thumb01L_048",
+              "angle": 0.5570365662069457
+            }
+          ],
+          "meshes": 4
+        },
+        {
+          "opening": 0,
+          "sleeveBend": 0.5663927379531897,
+          "sleeveLength": 10.376,
+          "wrist": "right_handR_010",
+          "weighted": [
+            "right_f_index01R_027",
+            "right_f_index02R_028",
+            "right_palm_indexR_026",
+            "right_f_middle01R_016",
+            "right_palm_middleR_015",
+            "right_f_index03R_029",
+            "right_f_middle02R_017",
+            "right_f_ring01R_020",
+            "right_palm_ringR_019",
+            "right_f_middle03R_018",
+            "right_f_ring02R_021",
+            "right_f_pinky01R_012",
+            "right_palm_pinkyR_011",
+            "right_f_ring03R_022",
+            "right_f_pinky02R_013",
+            "right_f_pinky03R_014",
+            "right_thumb02R_024",
+            "right_thumb03R_025",
+            "right_thumb01R_023",
+            "right_handR_010",
+            "right_forearmR_04"
+          ],
+          "materials": [
+            {
+              "name": "right_sleeve",
+              "color": "27292a"
+            },
+            {
+              "name": "right_cuff",
+              "color": "27292a"
+            },
+            {
+              "name": "right_skin",
+              "color": "b98260"
+            },
+            {
+              "name": "right_nails",
+              "color": "b98260"
+            }
+          ],
+          "anchor": [
+            0.19542253240769633,
+            -0.022673684541716435,
+            0.00381937918421023
+          ],
+          "fingerOffsets": [
+            {
+              "name": "right_f_index01R_027",
+              "angle": 0.0010251512427151856
+            },
+            {
+              "name": "right_f_index02R_028",
+              "angle": 0.000953580558066051
+            },
+            {
+              "name": "right_f_middle01R_016",
+              "angle": 0.002807941259590591
+            },
+            {
+              "name": "right_f_index03R_029",
+              "angle": 0
+            },
+            {
+              "name": "right_f_middle02R_017",
+              "angle": 0.002414471384038132
+            },
+            {
+              "name": "right_f_ring01R_020",
+              "angle": 0.002673566654083223
+            },
+            {
+              "name": "right_f_middle03R_018",
+              "angle": 0.0027716811949072876
+            },
+            {
+              "name": "right_f_ring02R_021",
+              "angle": 0.0026651691267331407
+            },
+            {
+              "name": "right_f_pinky01R_012",
+              "angle": 0.0027176833659068524
+            },
+            {
+              "name": "right_f_ring03R_022",
+              "angle": 0.002733294250525372
+            },
+            {
+              "name": "right_f_pinky02R_013",
+              "angle": 0.002449448852217337
+            },
+            {
+              "name": "right_f_pinky03R_014",
+              "angle": 0.002785260208762394
+            },
+            {
+              "name": "right_thumb02R_024",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb03R_025",
+              "angle": 0
+            },
+            {
+              "name": "right_thumb01R_023",
+              "angle": 0.0004816517739663868
+            }
+          ],
+          "meshes": 4
+        }
+      ],
+      "tabletop": null,
+      "projectCorners": [],
+      "cameraPosition": [
+        0,
+        0,
+        1500
+      ],
+      "viewport": [
+        1859,
+        918
+      ],
+      "elevation": 82.60115940379143,
+      "handRotations": [
+        [
+          -0.002039308972572479,
+          0.357283246330616,
+          -0.003277460848777202,
+          "XYZ"
+        ],
+        [
+          -0.0016722333575094326,
+          -0.3559722619911051,
+          0.002687517895997302,
+          "XYZ"
+        ]
+      ],
+      "deskGeometry": "ExtrudeGeometry",
+      "deskDimensions": [
+        2714,
+        64,
+        2114
+      ],
+      "deskMatrix": [
+        0.918,
+        0,
+        0,
+        0,
+        0,
+        0.7308049270680333,
+        0.5555611204656843,
+        0,
+        0,
+        -0.5555611204656843,
+        0.7308049270680333,
+        0,
+        0,
+        168.91415152696024,
+        -1150,
+        1
+      ],
+      "camera": "PerspectiveCamera",
+      "paperCorners": [
+        [
+          589.5,
+          -230.00000000000014
+        ],
+        [
+          1269.5,
+          -230.00000000000014
+        ],
+        [
+          1269.5,
+          3409.40625
+        ],
+        [
+          589.5,
+          3409.40625
+        ]
+      ],
+      "gripPosition": [
+        0,
+        0,
+        82.60115940379143
+      ],
+      "handCount": 2,
+      "skinnedMeshes": [
+        "left_Object_7",
+        "left_Object_8",
+        "right_Object_7",
+        "right_Object_8"
+      ],
+      "drawCalls": 41,
+      "triangles": 27030,
+      "textureCount": 7,
+      "pose": {
+        "left": 589.5,
+        "top": -230,
+        "width": 680,
+        "height": 3639.40625,
+        "scroll": 350,
+        "motion": -0.26011594037914265,
+        "portfolio": {
+          "active": false,
+          "cameraBlend": 0,
+          "turn": 0
+        }
+      },
+      "rect": {
+        "left": 589.5,
+        "right": 1269.5,
+        "top": -230,
+        "bottom": 3409.40625
+      },
+      "canvasWidth": 1859,
+      "cornerError": 1.4210854715202004e-13
+    }
+  ],
+  "settled": {
+    "coordination": {
+      "active": null,
+      "pending": false,
+      "hands": [
+        {
+          "side": "left",
+          "anchor": 762.4935124739148,
+          "x": 589.5,
+          "y": 532.4935124739148,
+          "phase": "grip",
+          "elapsed": 0,
+          "open": 0,
+          "outward": 0,
+          "velocity": 0,
+          "target": 532.4399999999999,
+          "targetFraction": 0.58,
+          "startOpen": 0
+        },
+        {
+          "side": "right",
+          "anchor": 744.1383441384869,
+          "x": 1269.5,
+          "y": 514.1383441384869,
+          "phase": "grip",
+          "elapsed": 0,
+          "open": 0,
+          "outward": 0,
+          "velocity": 0,
+          "target": 514.08,
+          "targetFraction": 0.56,
+          "startOpen": 0
+        }
+      ]
+    },
+    "deskCorners": [
+      [
+        385.5250997007642,
+        128.808013308131
+      ],
+      [
+        1473.4749002992357,
+        128.808013308131
+      ],
+      [
+        1916.9088302093887,
+        789.1919866918689
+      ],
+      [
+        -57.90883020938849,
+        789.1919866918689
+      ]
+    ],
+    "hands": [
+      {
+        "opening": 0,
+        "sleeveBend": 0.3260524632097205,
+        "sleeveLength": 10.376,
+        "wrist": "left_handL_031",
+        "weighted": [
+          "left_f_index01L_037",
+          "left_f_index02L_038",
+          "left_palm_indexL_036",
+          "left_f_middle01L_045",
+          "left_palm_middleL_044",
+          "left_f_index03L_039",
+          "left_f_middle02L_046",
+          "left_f_ring01L_041",
+          "left_palm_ringL_040",
+          "left_f_middle03L_047",
+          "left_f_ring02L_042",
+          "left_f_pinky01L_033",
+          "left_palm_pinkyL_032",
+          "left_f_ring03L_043",
+          "left_f_pinky02L_034",
+          "left_f_pinky03L_035",
+          "left_thumb02L_049",
+          "left_thumb03L_050",
+          "left_thumb01L_048",
+          "left_handL_031",
+          "left_forearmL_08"
+        ],
+        "materials": [
+          {
+            "name": "left_sleeve",
+            "color": "27292a"
+          },
+          {
+            "name": "left_cuff",
+            "color": "27292a"
+          },
+          {
+            "name": "left_skin",
+            "color": "b98260"
+          },
+          {
+            "name": "left_nails",
+            "color": "b98260"
+          }
+        ],
+        "anchor": [
+          -0.1949970751718372,
+          -0.07766847775548526,
+          0.004088615467669407
+        ],
+        "fingerOffsets": [
+          {
+            "name": "left_f_index01L_037",
+            "angle": 0
+          },
+          {
+            "name": "left_f_index02L_038",
+            "angle": 0.00046498784969369847
+          },
+          {
+            "name": "left_f_middle01L_045",
+            "angle": 0
+          },
+          {
+            "name": "left_f_index03L_039",
+            "angle": 0
+          },
+          {
+            "name": "left_f_middle02L_046",
+            "angle": 0
+          },
+          {
+            "name": "left_f_ring01L_041",
+            "angle": 0
+          },
+          {
+            "name": "left_f_middle03L_047",
+            "angle": 0
+          },
+          {
+            "name": "left_f_ring02L_042",
+            "angle": 0
+          },
+          {
+            "name": "left_f_pinky01L_033",
+            "angle": 0
+          },
+          {
+            "name": "left_f_ring03L_043",
+            "angle": 0
+          },
+          {
+            "name": "left_f_pinky02L_034",
+            "angle": 0
+          },
+          {
+            "name": "left_f_pinky03L_035",
+            "angle": 0
+          },
+          {
+            "name": "left_thumb02L_049",
+            "angle": 0
+          },
+          {
+            "name": "left_thumb03L_050",
+            "angle": 0
+          },
+          {
+            "name": "left_thumb01L_048",
+            "angle": 0.00032943180255964774
+          }
+        ],
+        "meshes": 4
+      },
+      {
+        "opening": 0,
+        "sleeveBend": 0.3080572001357715,
+        "sleeveLength": 10.376,
+        "wrist": "right_handR_010",
+        "weighted": [
+          "right_f_index01R_027",
+          "right_f_index02R_028",
+          "right_palm_indexR_026",
+          "right_f_middle01R_016",
+          "right_palm_middleR_015",
+          "right_f_index03R_029",
+          "right_f_middle02R_017",
+          "right_f_ring01R_020",
+          "right_palm_ringR_019",
+          "right_f_middle03R_018",
+          "right_f_ring02R_021",
+          "right_f_pinky01R_012",
+          "right_palm_pinkyR_011",
+          "right_f_ring03R_022",
+          "right_f_pinky02R_013",
+          "right_f_pinky03R_014",
+          "right_thumb02R_024",
+          "right_thumb03R_025",
+          "right_thumb01R_023",
+          "right_handR_010",
+          "right_forearmR_04"
+        ],
+        "materials": [
+          {
+            "name": "right_sleeve",
+            "color": "27292a"
+          },
+          {
+            "name": "right_cuff",
+            "color": "27292a"
+          },
+          {
+            "name": "right_skin",
+            "color": "b98260"
+          },
+          {
+            "name": "right_nails",
+            "color": "b98260"
+          }
+        ],
+        "anchor": [
+          0.19542253240769633,
+          -0.022673684541716435,
+          0.00381937918421023
+        ],
+        "fingerOffsets": [
+          {
+            "name": "right_f_index01R_027",
+            "angle": 0
+          },
+          {
+            "name": "right_f_index02R_028",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle01R_016",
+            "angle": 0.000582658071594808
+          },
+          {
+            "name": "right_f_index03R_029",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle02R_017",
+            "angle": 0
+          },
+          {
+            "name": "right_f_ring01R_020",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle03R_018",
+            "angle": 0.0003703685067872387
+          },
+          {
+            "name": "right_f_ring02R_021",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky01R_012",
+            "angle": 0
+          },
+          {
+            "name": "right_f_ring03R_022",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky02R_013",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky03R_014",
+            "angle": 0.000461118924426608
+          },
+          {
+            "name": "right_thumb02R_024",
+            "angle": 0
+          },
+          {
+            "name": "right_thumb03R_025",
+            "angle": 0
+          },
+          {
+            "name": "right_thumb01R_023",
+            "angle": 0.00014967925888044776
+          }
+        ],
+        "meshes": 4
+      }
+    ],
+    "tabletop": null,
+    "projectCorners": [],
+    "cameraPosition": [
+      0,
+      0,
+      1500
+    ],
+    "viewport": [
+      1859,
+      918
+    ],
+    "elevation": 80,
+    "handRotations": [
+      [
+        0,
+        0.35,
+        0,
+        "XYZ"
+      ],
+      [
+        0,
+        -0.35,
+        0,
+        "XYZ"
+      ]
+    ],
+    "deskGeometry": "ExtrudeGeometry",
+    "deskDimensions": [
+      2714,
+      64,
+      2114
+    ],
+    "deskMatrix": [
+      0.918,
+      0,
+      0,
+      0,
+      0,
+      0.7308049270680333,
+      0.5555611204656843,
+      0,
+      0,
+      -0.5555611204656843,
+      0.7308049270680333,
+      0,
+      0,
+      168.91415152696024,
+      -1150,
+      1
+    ],
+    "camera": "PerspectiveCamera",
+    "paperCorners": [
+      [
+        589.5,
+        -230.00000000000014
+      ],
+      [
+        1269.5,
+        -230.00000000000014
+      ],
+      [
+        1269.5,
+        3409.40625
+      ],
+      [
+        589.5,
+        3409.40625
+      ]
+    ],
+    "gripPosition": [
+      0,
+      0,
+      80
+    ],
+    "handCount": 2,
+    "skinnedMeshes": [
+      "left_Object_7",
+      "left_Object_8",
+      "right_Object_7",
+      "right_Object_8"
+    ],
+    "drawCalls": 41,
+    "triangles": 27030,
+    "textureCount": 7,
+    "pose": {
+      "left": 589.5,
+      "top": -230,
+      "width": 680,
+      "height": 3639.40625,
+      "scroll": 350,
+      "motion": 0,
+      "portfolio": {
+        "active": false,
+        "cameraBlend": 0,
+        "turn": 0
+      }
+    },
+    "rect": {
+      "left": 589.5,
+      "right": 1269.5,
+      "top": -230,
+      "bottom": 3409.40625
+    },
+    "canvasWidth": 1859,
+    "cornerError": 1.4210854715202004e-13
+  },
+  "mobile": {
+    "coordination": {
+      "active": null,
+      "pending": false,
+      "hands": [
+        {
+          "side": "left",
+          "anchor": 788.4935124739148,
+          "x": 18,
+          "y": 532.4935124739148,
+          "phase": "grip",
+          "elapsed": 0,
+          "open": 0,
+          "outward": 0,
+          "velocity": 0,
+          "target": 532.4399999999999,
+          "targetFraction": 0.58,
+          "startOpen": 0
+        },
+        {
+          "side": "right",
+          "anchor": 770.1383441384869,
+          "x": 357,
+          "y": 514.1383441384869,
+          "phase": "grip",
+          "elapsed": 0,
+          "open": 0,
+          "outward": 0,
+          "velocity": 0,
+          "target": 514.08,
+          "targetFraction": 0.56,
+          "startOpen": 0
+        }
+      ]
+    },
+    "deskCorners": [
+      [
+        -321.8444694776846,
+        118.42479654908776
+      ],
+      [
+        696.8444694776846,
+        118.42479654908776
+      ],
+      [
+        1066.4358385266721,
+        725.5752034509122
+      ],
+      [
+        -691.4358385266721,
+        725.5752034509122
+      ]
+    ],
+    "hands": [
+      {
+        "opening": 0,
+        "sleeveBend": 0.3718248355764494,
+        "sleeveLength": 10.376,
+        "wrist": "left_handL_031",
+        "weighted": [
+          "left_f_index01L_037",
+          "left_f_index02L_038",
+          "left_palm_indexL_036",
+          "left_f_middle01L_045",
+          "left_palm_middleL_044",
+          "left_f_index03L_039",
+          "left_f_middle02L_046",
+          "left_f_ring01L_041",
+          "left_palm_ringL_040",
+          "left_f_middle03L_047",
+          "left_f_ring02L_042",
+          "left_f_pinky01L_033",
+          "left_palm_pinkyL_032",
+          "left_f_ring03L_043",
+          "left_f_pinky02L_034",
+          "left_f_pinky03L_035",
+          "left_thumb02L_049",
+          "left_thumb03L_050",
+          "left_thumb01L_048",
+          "left_handL_031",
+          "left_forearmL_08"
+        ],
+        "materials": [
+          {
+            "name": "left_sleeve",
+            "color": "27292a"
+          },
+          {
+            "name": "left_cuff",
+            "color": "27292a"
+          },
+          {
+            "name": "left_skin",
+            "color": "b98260"
+          },
+          {
+            "name": "left_nails",
+            "color": "b98260"
+          }
+        ],
+        "anchor": [
+          -0.1949970751718372,
+          -0.07766847775548526,
+          0.004088615467669407
+        ],
+        "fingerOffsets": [
+          {
+            "name": "left_f_index01L_037",
+            "angle": 0
+          },
+          {
+            "name": "left_f_index02L_038",
+            "angle": 0.00046498784969369847
+          },
+          {
+            "name": "left_f_middle01L_045",
+            "angle": 0
+          },
+          {
+            "name": "left_f_index03L_039",
+            "angle": 0
+          },
+          {
+            "name": "left_f_middle02L_046",
+            "angle": 0
+          },
+          {
+            "name": "left_f_ring01L_041",
+            "angle": 0
+          },
+          {
+            "name": "left_f_middle03L_047",
+            "angle": 0
+          },
+          {
+            "name": "left_f_ring02L_042",
+            "angle": 0
+          },
+          {
+            "name": "left_f_pinky01L_033",
+            "angle": 0
+          },
+          {
+            "name": "left_f_ring03L_043",
+            "angle": 0
+          },
+          {
+            "name": "left_f_pinky02L_034",
+            "angle": 0
+          },
+          {
+            "name": "left_f_pinky03L_035",
+            "angle": 0
+          },
+          {
+            "name": "left_thumb02L_049",
+            "angle": 0
+          },
+          {
+            "name": "left_thumb03L_050",
+            "angle": 0
+          },
+          {
+            "name": "left_thumb01L_048",
+            "angle": 0.00032943180255964774
+          }
+        ],
+        "meshes": 4
+      },
+      {
+        "opening": 0,
+        "sleeveBend": 0.35225178877326796,
+        "sleeveLength": 10.376,
+        "wrist": "right_handR_010",
+        "weighted": [
+          "right_f_index01R_027",
+          "right_f_index02R_028",
+          "right_palm_indexR_026",
+          "right_f_middle01R_016",
+          "right_palm_middleR_015",
+          "right_f_index03R_029",
+          "right_f_middle02R_017",
+          "right_f_ring01R_020",
+          "right_palm_ringR_019",
+          "right_f_middle03R_018",
+          "right_f_ring02R_021",
+          "right_f_pinky01R_012",
+          "right_palm_pinkyR_011",
+          "right_f_ring03R_022",
+          "right_f_pinky02R_013",
+          "right_f_pinky03R_014",
+          "right_thumb02R_024",
+          "right_thumb03R_025",
+          "right_thumb01R_023",
+          "right_handR_010",
+          "right_forearmR_04"
+        ],
+        "materials": [
+          {
+            "name": "right_sleeve",
+            "color": "27292a"
+          },
+          {
+            "name": "right_cuff",
+            "color": "27292a"
+          },
+          {
+            "name": "right_skin",
+            "color": "b98260"
+          },
+          {
+            "name": "right_nails",
+            "color": "b98260"
+          }
+        ],
+        "anchor": [
+          0.19542253240769633,
+          -0.022673684541716435,
+          0.00381937918421023
+        ],
+        "fingerOffsets": [
+          {
+            "name": "right_f_index01R_027",
+            "angle": 0
+          },
+          {
+            "name": "right_f_index02R_028",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle01R_016",
+            "angle": 0.000582658071594808
+          },
+          {
+            "name": "right_f_index03R_029",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle02R_017",
+            "angle": 0
+          },
+          {
+            "name": "right_f_ring01R_020",
+            "angle": 0
+          },
+          {
+            "name": "right_f_middle03R_018",
+            "angle": 0.0003703685067872387
+          },
+          {
+            "name": "right_f_ring02R_021",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky01R_012",
+            "angle": 0
+          },
+          {
+            "name": "right_f_ring03R_022",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky02R_013",
+            "angle": 0
+          },
+          {
+            "name": "right_f_pinky03R_014",
+            "angle": 0.000461118924426608
+          },
+          {
+            "name": "right_thumb02R_024",
+            "angle": 0
+          },
+          {
+            "name": "right_thumb03R_025",
+            "angle": 0
+          },
+          {
+            "name": "right_thumb01R_023",
+            "angle": 0.00014967925888044776
+          }
+        ],
+        "meshes": 4
+      }
+    ],
+    "tabletop": null,
+    "projectCorners": [],
+    "cameraPosition": [
+      0,
+      0,
+      1500
+    ],
+    "viewport": [
+      375,
+      844
+    ],
+    "elevation": 80,
+    "handRotations": [
+      [
+        0,
+        0.35,
+        0,
+        "XYZ"
+      ],
+      [
+        0,
+        -0.35,
+        0,
+        "XYZ"
+      ]
+    ],
+    "deskGeometry": "ExtrudeGeometry",
+    "deskDimensions": [
+      2714,
+      64,
+      2114
+    ],
+    "deskMatrix": [
+      0.844,
+      0,
+      0,
+      0,
+      0,
+      0.6718947259754031,
+      0.5107773264412173,
+      0,
+      0,
+      -0.5107773264412173,
+      0.6718947259754031,
+      0,
+      0,
+      142.7794046949045,
+      -1150,
+      1
+    ],
+    "camera": "PerspectiveCamera",
+    "paperCorners": [
+      [
+        17.999999999999975,
+        -256.0000000000002
+      ],
+      [
+        357,
+        -256.0000000000002
+      ],
+      [
+        357,
+        4134.812500000001
+      ],
+      [
+        17.999999999999975,
+        4134.812500000001
+      ]
+    ],
+    "gripPosition": [
+      0,
+      0,
+      80
+    ],
+    "handCount": 2,
+    "skinnedMeshes": [
+      "left_Object_7",
+      "left_Object_8",
+      "right_Object_7",
+      "right_Object_8"
+    ],
+    "drawCalls": 20,
+    "triangles": 22758,
+    "textureCount": 7,
+    "pose": {
+      "left": 18,
+      "top": -256,
+      "width": 339,
+      "height": 4390.8125,
+      "scroll": 350,
+      "motion": 0,
+      "portfolio": {
+        "active": false,
+        "cameraBlend": 0,
+        "turn": 0
+      }
+    },
+    "rect": {
+      "left": 18,
+      "right": 357,
+      "top": -256,
+      "bottom": 4134.8125
+    },
+    "canvasWidth": 375,
+    "cornerError": 9.094947017729282e-13
+  },
+  "errors": []
+}

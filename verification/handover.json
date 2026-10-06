@@ -1,0 +1,12 @@
+{
+  "phases": [
+    "grip",
+    "release",
+    "depart",
+    "travel",
+    "approach",
+    "regrip"
+  ],
+  "frames": 606,
+  "errors": []
+}

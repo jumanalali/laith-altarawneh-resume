@@ -1,0 +1,1 @@
+const fs=require('fs');let s=fs.readFileSync('build.mjs','utf8');s=s.replace(/<div class="portfolio-toolbar">(<button id="back-profile"[\s\S]*?<\/button>)/,'<div class="portfolio-back">$1</div><div class="portfolio-toolbar">');fs.writeFileSync('build.mjs',s);
